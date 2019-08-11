@@ -1,6 +1,4 @@
 
-## npm-package-base
-
 ### Installation
 
 With npm:
